@@ -1,0 +1,2 @@
+# ECG-and-EEG-based-Biometric-Encryption-using-Machine-Learning
+Developed a multimodal biometric authentication system using ECG and EEG signals. Built a pipeline for preprocessing and feature extraction across time, frequency, wavelet, and non-linear domains. Achieved 99% accuracy using Random Forest and generated a dynamic 256-bit AES key via SHA-256 for secure keyless encryption resistant to spoofing.
