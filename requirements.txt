@@ -1,0 +1,25 @@
+# Core scientific stack
+numpy>=1.24.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+scipy>=1.11.0,<2.0.0
+
+# Signal processing
+wfdb>=4.1.2
+pywavelets>=1.4.0
+
+# Machine learning
+scikit-learn>=1.3.0,<2.0.0
+
+# Cryptography (AES-256, SHA-256)
+pycryptodome>=3.19.0
+
+# Web UI for the demo
+gradio>=4.0.0
+
+# Notebook (only needed if running locally)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Plotting (for confusion matrix etc.)
+matplotlib>=3.7.0
+seaborn>=0.12.0
