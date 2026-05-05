@@ -289,7 +289,7 @@ If you use this work or build upon it, please cite:
 ```bibtex
 @misc{chiranthan2025ecgeeg,
   title        = {ECG and EEG Based Biometric Cryptography Using Machine Learning},
-  author       = {Chiranthan Gowda, C M and Naik H, Anand and G, Amogh and Arya B S, Om},
+  author       = {C M  Chiranthan Gowda, and Anand Naik H, and Amogh G, and Om Arya B S},
   year         = {2025},
   institution  = {B.M.S. College of Engineering, Bengaluru},
   howpublished = {\url{https://github.com/Chiranthan7/ECG-and-EEG-based-Biometric-Encryption-using-Machine-Learning}},
