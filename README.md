@@ -1,6 +1,6 @@
 # ECG + EEG Based Biometric Cryptography Using Machine Learning
 
-> A multimodal biometric authentication and cryptographic system that uses the physiological uniqueness of ECG (Electrocardiogram) and EEG (Electroencephalogram) signals to verify identity and dynamically generate AES-256 encryption keys — eliminating the need for stored passwords or static keys.
+> Multimodal biometric authentication and AES-256 cryptography using ECG + EEG signals with feature-level fusion and a Random Forest classifier. Final-year capstone project, BMSCE.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-1.3+-orange.svg)
