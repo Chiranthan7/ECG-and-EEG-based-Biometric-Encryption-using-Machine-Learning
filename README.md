@@ -267,19 +267,17 @@ The authors thank Prof. Spoorthi G S for her guidance throughout the project, Dr
 
 ## References
 
-1. A. Abadleh, S. Al-Sarayrah, and M. Al-Fayoumi, "ECG-Based Biometric Key Generation Using Principal Component Analysis and Random Forest," *IEEE Access*, vol. 13, pp. 10245–10258, 2025.
-2. H. M. Lynn, S. B. Pan, and P. Kim, "A Deep Learning-Based Approach for ECG-Based Biometric Authentication," *Journal of Ambient Intelligence and Humanized Computing*, vol. 11, no. 11, pp. 4821–4831, 2020.
-3. M. Nabil, M. Ismail, and M. I. Sezan, "Robust ECG Identification Using Deep Learning with Noise Filtering Mechanisms," *Expert Systems with Applications*, vol. 238, p. 121803, 2024.
-4. A. Tahaci, S. K. Bashar, and A. S. Al-Mogren, "EEG-Based Person Identification Using Deep Convolutional Neural Networks and Time-Frequency Features," *IEEE Transactions on Instrumentation and Measurement*, vol. 72, pp. 1–12, 2023.
-5. H. J. Bidgoly, H. Jalalvand, and M. A. Pourmina, "A Survey of EEG-Based Biometry: Features, Classifiers, and Applications," *IEEE Systems Journal*, vol. 14, no. 3, pp. 3671–3682, 2020.
-6. S. K. Bashar, M. I. H. Bhuiyan, and A. D. McDonald, "Multimodal Biometric Authentication Using Fusion of ECG and EEG Signals," *Biomedical Signal Processing and Control*, vol. 54, p. 101614, 2019.
-7. A. Rattani and M. Derakhshani, "Multimodal Biometrics: A Review of Fusion Strategies and Applications," *Information Fusion*, vol. 52, pp. 1–14, 2019.
-8. G. Kaur, R. P. Singh, and S. H. Lee, "A Novel Biometric Cryptosystem Based on ECG Signals for Secure Internet of Things," *Future Generation Computer Systems*, vol. 115, pp. 450–462, 2021.
-9. Y. Zhang, L. Wu, and J. Wang, "Brainwave-Based Key Generation: Securing Wireless Communication with EEG Signals," *IEEE Internet of Things Journal*, vol. 10, no. 4, pp. 3012–3024, 2023.
-10. L. Breiman, "Random Forests," *Machine Learning*, vol. 45, no. 1, pp. 5–32, 2001.
-11. J. Daemen and V. Rijmen, *The Design of Rijndael: AES — The Advanced Encryption Standard*, Springer-Verlag, 2002.
-12. G. Moody, R. Mark, and A. Goldberger, "PhysioNet: A Web-Based Resource for the Study of Physiologic Signals," *IEEE Engineering in Medicine and Biology Magazine*, vol. 20, no. 3, pp. 70–75, 2001.
 
+1. L. Breiman, "Random Forests," Machine Learning, vol. 45, no. 1, pp. 5–32, 2001, doi: 10.1023/A:1010933404324.
+2. J. Daemen and V. Rijmen, The Design of Rijndael: AES — The Advanced Encryption Standard. Berlin, Heidelberg: Springer-Verlag, 2002.
+3. A. L. Goldberger, L. A. N. Amaral, L. Glass, J. M. Hausdorff, P. Ch. Ivanov, R. G. Mark, J. E. Mietus, G. B. Moody, C.-K. Peng, and H. E. Stanley, "PhysioBank, PhysioToolkit, and PhysioNet: Components of a New Research Resource for Complex Physiologic Signals," Circulation, vol. 101, no. 23, pp. e215–e220, 2000, doi: 10.1161/01.CIR.101.23.e215.
+4. G. B. Moody, R. G. Mark, and A. L. Goldberger, "PhysioNet: A Web-Based Resource for the Study of Physiologic Signals," IEEE Engineering in Medicine and Biology Magazine, vol. 20, no. 3, pp. 70–75, May/June 2001, doi: 10.1109/51.932728.
+5. N. Karimian, Z. Guo, M. Tehranipoor, and D. Forte, "Highly Reliable Key Generation From Electrocardiogram (ECG)," IEEE Transactions on Biomedical Engineering, vol. 64, no. 6, pp. 1400–1411, Jun. 2017, doi: 10.1109/TBME.2016.2607020.
+6. H. M. Lynn, S. B. Pan, and P. Kim, "A Deep Bidirectional GRU Network Model for Biometric Electrocardiogram Classification Based on Recurrent Neural Networks," IEEE Access, vol. 7, pp. 145395–145405, 2019, doi: 10.1109/ACCESS.2019.2939947.
+7. N. Ibtehaz, M. E. H. Chowdhury, A. Khandakar, S. Kiranyaz, M. S. Rahman, A. Tahir, Y. Qiblawey, and T. Rahman, "EDITH: ECG Biometrics Aided by Deep Learning for Reliable Individual Authentication," IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 6, no. 4, pp. 928–940, Aug. 2022, doi: 10.1109/TETCI.2021.3131374.
+8. A. J. Bidgoly, H. J. Bidgoly, and Z. Arezoumand, "A Survey on Methods and Challenges in EEG Based Authentication," Computers & Security, vol. 93, p. 101788, Jun. 2020, doi: 10.1016/j.cose.2020.101788.
+9. H. B. Hwang, J. Lee, H. Kwon, B. Chung, J. Lee, and I. Y. Kim, "Preliminary Study of Novel Bio-Crypto Key Generation Using Clustering-Based Binarization of ECG Features," Sensors, vol. 24, no. 5, p. 1556, Feb. 2024, doi: 10.3390/s24051556.
+10. A. Rahman, M. E. H. Chowdhury, A. Khandakar, S. Kiranyaz, K. H. Shahriar Zaman, M. B. I. Reaz, M. T. Islam, M. Ezeddin, and M. A. Kadir, "Multimodal EEG and Keystroke Dynamics Based Biometric System Using Machine Learning Algorithms," IEEE Access, vol. 9, pp. 94625–94643, 2021, doi: 10.1109/ACCESS.2021.3092840.
 ---
 
 ## Citation
@@ -293,7 +291,7 @@ If you use this work or build upon it, please cite:
   year         = {2025},
   institution  = {B.M.S. College of Engineering, Bengaluru},
   howpublished = {\url{https://github.com/Chiranthan7/ECG-and-EEG-based-Biometric-Encryption-using-Machine-Learning}},
-  note         = {Project Work — 2, B.E. in Artificial Intelligence and Machine Learning, Semester 7}
+  note         = {Project Work, B.E. in Artificial Intelligence and Machine Learning, Semester 6 & 7}
 }
 ```
 
